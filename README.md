@@ -10,10 +10,16 @@
 <p>
 	<a href="#"><img alt="C" src="https://img.shields.io/badge/C-1A5276?style=flat&logo=C&logoColor=white?"></a>
 	<a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-E67E22?style=flat&logo=JavaScript&logoColor=white"></a>
-	<a href="#"><img alt="Motorola68K" src="https://img.shields.io/badge/Motorola68K-7F8C8D?style=flat"></a>
+	<a href="#"><img alt="Motorola68K" src="https://img.shields.io/badge/Motorola68K-2E4053?style=flat"></a>
 </p>
 
 ##
 <p align="center">
 <a href="https://profile.intra.42.fr/users/migmoren"><img src="https://badge42.vercel.app/api/v2/cl96t7c1700110gmirv4hhet0/stats?cursusId=21&coalitionId=66" alt="migmoren's 42 stats" /></a>
+</p>
+
+##
+<p align="center">
+	<a href="#"><img alt="42" src="https://img.shields.io/badge/-000000?style=flat&logo=42&logoColor=white?"></a>
+	<a href="#"><img alt="Metro" src="https://img.shields.io/badge/-C0392B?style=flat&logo=Metro de Madrid&logoColor=white"></a>
 </p>
