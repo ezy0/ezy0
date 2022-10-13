@@ -17,7 +17,7 @@
 <p>
 	<a href="#"><img alt="Pascal" src="https://img.shields.io/badge/Pascal-20232A?style=for-the-badge"></a>
 	<a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=Python&logoColor=yellow"></a>
-	<a href="#"><img alt="Scala" src="https://img.shields.io/badge/Scala-20232A?style=for-the-badge&logo=Scala&logoColor=DC322F"></a>
+	<!-- <a href="#"><img alt="Scala" src="https://img.shields.io/badge/Scala-20232A?style=for-the-badge&logo=Scala&logoColor=DC322F"></a> -->
 	<a href="#"><img alt="MIPS" src="https://img.shields.io/badge/MIPS-20232A?style=for-the-badge"></a>
 	<a href="#"><img alt="C" src="https://img.shields.io/badge/C-20232A?style=for-the-badge&logo=C&logoColor=00599C?"></a>
 	<a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=JavaScript&logoColor=orange"></a>
