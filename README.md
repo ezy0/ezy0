@@ -13,6 +13,14 @@
 	<a href="#"><img alt="Motorola68K" src="https://img.shields.io/badge/Motorola68K-2E4053?style=flat"></a>
 </p>
 
+## Programming Languages Learned
+<p>
+	<a href="#"><img alt="Pascal" src="https://img.shields.io/badge/Pascal-F1C40F?style=flat"></a>
+	<a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-154360?style=flat&logo=Python&logoColor=yellow"></a>
+	<a href="#"><img alt="Scala" src="https://img.shields.io/badge/Scala-B03A2E?style=flat&logo=Scala&logoColor=white"></a>
+	<a href="#"><img alt="MIPS" src="https://img.shields.io/badge/MIPS-D0D3D4?style=flat"></a>
+</p>
+
 ##
 <p align="center">
 <a href="https://profile.intra.42.fr/users/migmoren"><img src="https://badge42.vercel.app/api/v2/cl96t7c1700110gmirv4hhet0/stats?cursusId=21&coalitionId=66" alt="migmoren's 42 stats" /></a>
