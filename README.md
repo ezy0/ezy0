@@ -2,7 +2,7 @@
 
 ## Operating Systems
 <p>
- 	<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-2196F3?style=flat-square&logo=appveyor?logo=windows&logoColor=white?"></a>
+ 	<a href="#"><img alt="Windows" src="style=flat-square&logo=appveyor?https://img.shields.io/badge/Windows-2196F3?logo=windows&logoColor=white?"></a>
 	<a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-F5B041?logo=linux&logoColor=black"></a>
 </p>
 
