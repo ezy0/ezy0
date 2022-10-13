@@ -2,6 +2,6 @@
 
 ## Operating Systems
 <p>
- 	<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-23BAC4?logo=windows&logoColor=white"></a>
+ 	<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-80DEEA?logo=windows&logoColor=white"></a>
 	<a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FFB74D?logo=linux&logoColor=black"></a>
 </p>
