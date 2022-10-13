@@ -21,5 +21,5 @@
 ##
 <p align="center">
 	<a href="#"><img alt="42" src="https://img.shields.io/badge/-000000?style=flat&logo=42&logoColor=white?logoWidth=40"></a>
-	<a href="#"><img alt="Metro" src="https://img.shields.io/badge/-C0392B?style=flat&logo=Metro de Madrid&logoColor=white?logoWidth=40"></a>
+	<a href="#"><img alt="Metro" src="https://img.shields.io/badge/-7B241C?style=flat&logo=Metro de Madrid&logoColor=white"></a>
 </p>
