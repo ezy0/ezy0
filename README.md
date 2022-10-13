@@ -2,23 +2,23 @@
 
 ## Operating Systems
 <p>
- 	<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-2196F3?style=flat&logo=windows&logoColor=white?"></a>
-	<a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-F5B041?style=flat&logo=linux&logoColor=black"></a>
+ 	<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-20232A?style=for-the-badge&logo=Windows 11&logoColor=3498DB?"></a>
+	<a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-20232A?style=for-the-badge&logo=linux&logoColor=FCC624"></a>
 </p>
 
 ## Current Programming Languages
 <p>
-	<a href="#"><img alt="C" src="https://img.shields.io/badge/C-1A5276?style=flat&logo=C&logoColor=white?"></a>
-	<a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-E67E22?style=flat&logo=JavaScript&logoColor=white"></a>
-	<a href="#"><img alt="Motorola68K" src="https://img.shields.io/badge/Motorola68K-2E4053?style=flat"></a>
+	<a href="#"><img alt="C" src="https://img.shields.io/badge/C-20232A?style=for-the-badge&logo=C&logoColor=00599C?"></a>
+	<a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=JavaScript&logoColor=orange"></a>
+	<a href="#"><img alt="Motorola68K" src="https://img.shields.io/badge/Motorola68K-20232A?style=for-the-badge"></a>
 </p>
 
 ## Programming Languages Learned
 <p>
-	<a href="#"><img alt="Pascal" src="https://img.shields.io/badge/Pascal-F1C40F?style=flat"></a>
-	<a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-154360?style=flat&logo=Python&logoColor=yellow"></a>
-	<a href="#"><img alt="Scala" src="https://img.shields.io/badge/Scala-B03A2E?style=flat&logo=Scala&logoColor=white"></a>
-	<a href="#"><img alt="MIPS" src="https://img.shields.io/badge/MIPS-D0D3D4?style=flat"></a>
+	<a href="#"><img alt="Pascal" src="https://img.shields.io/badge/Pascal-20232A?style=for-the-badge"></a>
+	<a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=Python&logoColor=yellow"></a>
+	<a href="#"><img alt="Scala" src="https://img.shields.io/badge/Scala-20232A?style=for-the-badge&logo=Scala&logoColor=DC322F"></a>
+	<a href="#"><img alt="MIPS" src="https://img.shields.io/badge/MIPS-20232A?style=for-the-badge"></a>
 </p>
 
 ##
