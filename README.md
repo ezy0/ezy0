@@ -10,7 +10,7 @@
 <p>
 	<a href="#"><img alt="C" src="https://img.shields.io/badge/C-1A5276?style=flat&logo=C&logoColor=white?"></a>
 	<a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-E67E22?style=flat&logo=JavaScript&logoColor=white"></a>
-	<a href="#"><img alt="Motorola68" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
+	<a href="#"><img alt="Motorola68K" src="https://img.shields.io/badge/Motorola68K-7F8C8D?style=flat></a>
 </p>
 
 ##
