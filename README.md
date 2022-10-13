@@ -2,8 +2,17 @@
 
 ## Operating Systems
 <p>
- 	<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-2196F3?logo=windows&logoColor=white"></a>
+ 	<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-2196F3?logo=42&logoColor=white"></a>
 	<a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-F5B041?logo=linux&logoColor=black"></a>
+</p>
+
+## Current Programming Languages
+<p>
+	<a href="#"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
+	<a href="#"><img alt="Java" src="https://img.shields.io/badge/C%23-239120.svg?logo=c-sharp&logoColor=white"></a>
+	<a href="#"><img alt="Motorola68" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
+	<a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
+	
 </p>
 
 ##
