@@ -8,7 +8,7 @@
 
 ## Current Programming Languages
 <p>
-	<a href="#"><img alt="C" src="https://img.shields.io/badge/C-2980B9?style=flat&logo=C&logoColor=white?"></a>
+	<a href="#"><img alt="C" src="https://img.shields.io/badge/C-557C94?style=flat&logo=C&logoColor=white?"></a>
 	<a href="#"><img alt="Java" src="https://img.shields.io/badge/C%23-239120.svg?logo=c-sharp&logoColor=white"></a>
 	<a href="#"><img alt="Motorola68" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
 </p>
