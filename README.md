@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?size=25&duration=3000&pause=1500&color=F7C000&center=true&vCenter=true&width=600&lines=UNDER+CONSTRUCTION+:])](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?size=25&duration=3000&pause=1500&color=F7C000&center=true&vCenter=true&width=600&lines=+*****+UNDER+CONSTRUCTION+:]+*****)](https://git.io/typing-svg)
 
 ## Operating Systems
 <p>
@@ -8,7 +8,7 @@
 
 ## Current Programming Languages
 <p>
-	<a href="#"><img alt="C" src="https://img.shields.io/badge/C-5499C7?style=flat&logo=C&logoColor=white?"></a>
+	<a href="#"><img alt="C" src="https://img.shields.io/badge/C-1A5276?style=flat&logo=C&logoColor=white?"></a>
 	<a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-E67E22?style=flat&logo=JavaScript&logoColor=white"></a>
 	<a href="#"><img alt="Motorola68" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
 </p>
